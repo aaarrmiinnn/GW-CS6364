@@ -23,6 +23,7 @@ For `Anaconda` run this:
 ```
 conda create --name gw-cs6364 --file requirements.yml
 conda activate gw-cs6364
+python -m ipykernel install --user --name=gw-cs6364
 ```
 
 In a new `virtualenv`, run this:
