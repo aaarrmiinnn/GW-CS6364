@@ -30,3 +30,5 @@ In a new `virtualenv`, run this:
 ```
 pip install -r requirements.txt
 ```
+
+Credits: The slides and course materials are forks of Cornell CS5785 (https://github.com/kuleshov/cornell-cs5785-2023-applied-ml), courtesy of Volodymyr Kuleshov.
