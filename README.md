@@ -1,6 +1,6 @@
 # GWU CS6364/CS4364
 
-This repo contains executable slides for the  ML course at The George Washington University (Fall 2023 edition).
+This repo contains executable slides for the  ML course at The George Washington University (Spring 2024 edition).
 
 ## Contents
 
