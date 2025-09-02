@@ -5,7 +5,7 @@
 
 **Meeting time:** Fridays 9:30 am – 11:45 am  
 
-**Location:** Phillips Hall 110  
+**Location:** Media & Public Affairs Bldg 305 
 
 **Instructors:**  
 - Armin Mehrabian (armin@gwu.edu)  
